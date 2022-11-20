@@ -9,7 +9,7 @@ const config = {
   tagline: 'Dinosaurs are cool',
   url: 'https://envest.github.io',
   baseUrl: '/wiki/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'envest',
