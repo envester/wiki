@@ -9,4 +9,6 @@ sidebar_position: 1
 
 # Hello
 
+[MDX](https://mdxjs.com "title")
+
 Hello again
