@@ -30,3 +30,4 @@ gantt
     Add gantt diagram to demo page      :20h
     Add another diagram to demo page    :48h
 ```
+Paragraph 1
