@@ -1,3 +1,4 @@
+```mermaid
 gantt
     dateFormat  YYYY-MM-DD
     title       Adding GANTT diagram functionality to mermaid
@@ -28,3 +29,4 @@ gantt
     Describe gantt syntax               :after doc1, 3d
     Add gantt diagram to demo page      :20h
     Add another diagram to demo page    :48h
+```
