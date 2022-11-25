@@ -1,4 +1,6 @@
-# Openfunction ![Logo](images/openfunction_logo-1.png)
+# Openfunction 
+
+![Logo](images/openfunction_logo-1.png)
 
 ## Architecture
 ![architecture](images/openfunction-0.5-architecture.png)
